@@ -1,1 +1,1 @@
-<b>Entire Description of the Project is explained in the Manuscript uploaded.</b>
+<b>Entire description of the Project is explained in the Manuscript uploaded.</b>
